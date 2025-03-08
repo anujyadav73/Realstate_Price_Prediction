@@ -1,7 +1,3 @@
-# Realstate_Price_Prediction
-House price prediction can help the developer determine the selling price of a house and can help the customer to arrange the right time to purchase a house. There are three factors that influence the price of a house which include physical conditions, concept and location.
-``` BY ANUJ YADAV```
-
 # 🏡 Real Estate Price Prediction – Bangalore
 
 Welcome to the **Real Estate Price Prediction** project! This repository contains a machine learning model that predicts property prices in Bangalore using real estate data from Kaggle. The project involves **data cleaning, exploratory data analysis (EDA), feature engineering, model training, and evaluation** to build an accurate price prediction model.
