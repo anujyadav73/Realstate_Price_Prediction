@@ -88,14 +88,6 @@ To contribute, fork the repository, create a branch, and submit a pull request.
 
 ---
 
-## 📞 Contact
-
-👤 **Anuj Yadav**  
-📧 anujyadav73@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/anujyadav73/)  
-
----
-
 ### ⭐ If you found this project useful, please consider giving it a star! ⭐
 
 
